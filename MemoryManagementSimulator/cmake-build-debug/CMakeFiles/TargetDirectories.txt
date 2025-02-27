@@ -1,0 +1,3 @@
+/Users/philippejean/Desktop/C++ Projects/MemoryManagementSimulator/cmake-build-debug/CMakeFiles/MemoryManagementSimulator.dir
+/Users/philippejean/Desktop/C++ Projects/MemoryManagementSimulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/philippejean/Desktop/C++ Projects/MemoryManagementSimulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
